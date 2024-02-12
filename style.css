@@ -1,0 +1,163 @@
+*{
+    color: white !important;
+ }
+
+
+.searchbar{
+    display: inline-block;
+    margin-bottom:0px ;
+    margin-right: 1000px;
+    background-color: ;
+
+}
+.container-fluid{
+    background-color: black !important ;   
+    color: ;
+    height: 300% !important;
+
+}
+.search-bar{
+    background-color: black;
+}
+@media only screen and (max-width:990px) {
+    .navbar{
+        height: auto;
+        width: auto;
+    }  
+   
+}
+.nav-item{
+    font-weight: bolder !important;
+}
+.time{
+    font-weight: 600 ;
+    font-size: 20px;
+}
+
+h2{
+display: block;
+margin-block-start:0.83em;
+margin-block-end:0.83em;
+margin-inline-start:0px;
+margin-inline-end:0px;
+font-weight:bold;
+}
+.section-heading-md{
+    color: black !important;
+}
+.line{
+    color: black !important;
+
+}
+.section-2 {
+    display: flex !important;
+    justify-content: end;
+    align-items: center;
+}
+
+.section-2> span {
+    position: absolute;
+    margin-bottom: 58px ;
+    font-size: large;
+    display: block;
+font-weight:bold;
+     
+}
+.main-2{
+    height: 600px;
+    /* background-color: red; */
+    margin-top: 20px;
+}
+.two{
+    height: 410px;
+    /* background-color: rgb(206, 38, 94); */
+    margin-top: 100px;
+    margin-bottom: 10px;
+
+
+}
+
+.three{
+    height: 410px;
+    /* background-color: rgb(17, 188, 88); */
+    margin-bottom: 10px;
+    
+}
+/* .three>img{
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+} */
+
+.four{
+    height: 400px;
+    /* background-color: rgb(14, 183, 221); */
+    margin-top: 10px;
+}
+.five{
+    height: 200px;
+    /* background-color: rgb(183, 0, 255); */
+    margin-bottom: 10px;
+}
+.six{
+    height: 200px;
+    /* background-color: rgb(219, 193, 28); */
+    margin-bottom: 10px;
+}
+#black{
+    color: black !important;
+}
+.today{
+    font-size: small;
+    color: #1b1b1b;
+}
+.main-5{
+    height: 500px;
+}
+.heading{
+    font-weight: bolder;
+    font-size: 22px;
+    line-height: 100%;
+}
+.link{
+    font-weight: bolder;
+    font-size: 15px;
+
+}
+.span-2{
+font-family: "dm-mono";
+    font-style: normal;
+    font-weight: 500;
+    font-size: .6rem;
+    line-height: 1em;
+    letter-spacing: 3.5px;
+    text-transform: uppercase;
+    
+}
+
+
+.paragraph{
+    color:  #b9b9bb;
+}
+.footer{
+    background-color: black;
+}
+li{
+    list-style-type: none ;
+        font-size: 1rem;
+        line-height: 1.5em;
+        font-weight: 400;
+   
+    
+}
+.heading-6{
+    color: #b9b9bb!important;
+}
+.grey{
+    color: #b9b9bb!important;
+    font-size: 0.8rem;
+    
+}
+.space{
+    margin-left: 5px;
+}
